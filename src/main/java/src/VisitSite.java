@@ -28,8 +28,7 @@ public class VisitSite {
             Connection connection = Jsoup.connect(url).userAgent(USER_AGENT);
             Document htmlDocument = connection.get();
             this.htmlDocument = htmlDocument;
-            if(connection.response().statusCode() == 200) // 200 is the HTTP OK status code
-                                                          // indicating that everything is great.
+            if(connection.response().statusCode() == 200)
             {
                 Log.writeLog(url + " **Visiting** Received web page at ");
             }
