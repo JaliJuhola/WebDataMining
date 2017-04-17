@@ -51,7 +51,6 @@ public class Crawler {
                 this.nextVisit = this.unvisited.remove();
                 if (this.validateWithoutPriority(this.nextVisit) != null) {
                     goodUrl = true;
-                    System.out.println("success!!");
                 } 
             }
         }
@@ -70,6 +69,7 @@ public class Crawler {
                 this.visitAmount++;
             }
             System.out.println(this.nextVisit);
+            this.visited.addToList(new Link(this.nextVisit));
             this.nextUrl();
         }
     }
@@ -86,7 +86,6 @@ public class Crawler {
         for (int i = 0; i < this.filters.size(); i++) {
             if (this.filters.get(i).needsLinkList()) {
                 if (!this.filters.get(i).checkIfAllowed(url, this.visited)) {
-                    System.out.println("Failed hue");
                     return null;
                 }
             } else {

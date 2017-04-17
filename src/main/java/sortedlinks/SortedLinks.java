@@ -5,6 +5,7 @@
  */
 package sortedlinks;
 
+import files.Log;
 import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.List;
@@ -52,6 +53,7 @@ public class SortedLinks {
     }
 
     public boolean addToList(Link newLink) {
+        Log.writeLog(newLink.getDns() + " added ");
         if (!this.listOfLinks.containsKey(newLink.getDns())) {
             this.uniqueDns++;
             ArrayList<Link> list = new ArrayList<>();
@@ -78,7 +80,8 @@ public class SortedLinks {
     public boolean uniqueDns(String link)
     {
         Link l = new Link(link);
-        return !this.listOfLinks.containsKey(l.getDns());
+        List<Link> items = this.listOfLinks.get(l.getDns());
+        return items == null;
     }
     public boolean uniqueRoute(String link)
     {
