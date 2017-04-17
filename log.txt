@@ -1,13 +1,1 @@
-2017-04-17 20:13:19.308:  HTTP error fetching URL
-2017-04-17 20:13:20.157:  Unhandled content type. Must be text/*, application/xml, or application/xhtml+xml
-2017-04-17 20:13:23.036:  http://feeds.bbci.co.uk/learningenglish/english/home/rss **Failure** Retrieved something other than HTML
-2017-04-17 20:13:36.34:  http://feeds.bbci.co.uk/news/rss.xml?edition=int **Failure** Retrieved something other than HTML
-2017-04-17 20:13:36.717:  HTTP error fetching URL
-2017-04-17 20:13:39.251:  HTTP error fetching URL
-2017-04-17 20:13:39.585:  protocol = http host = null
-2017-04-17 20:13:51.083:  Unhandled content type. Must be text/*, application/xml, or application/xhtml+xml
-2017-04-17 20:14:02.866:  HTTP error fetching URL
-2017-04-17 20:14:03.469:  HTTP error fetching URL
-2017-04-17 20:14:03.685:  HTTP error fetching URL
-2017-04-17 20:14:14.635:  HTTP error fetching URL
-2017-04-17 20:14:19.148:  HTTP error fetching URL
+
