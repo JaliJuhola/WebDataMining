@@ -41,7 +41,7 @@ public class Link {
                 e++;
             }
             for (; i < parts.length; i++) {
-                if (i - e < 19) {
+                if (i - e < 20) {
                     linkRoutes[i - e] = parts[i];
                 }
             }

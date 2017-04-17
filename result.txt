@@ -1,0 +1,122 @@
+Result Mon Apr 17 17:55:58 EEST 2017
+      www.uta.fi#menuItem-1(2)
+https://www.uta.fi#menuItem-1
+https://www.uta.fi#menuItem-1
+      www.uta.fi#menuItem-2(2)
+https://www.uta.fi#menuItem-2
+https://www.uta.fi#menuItem-2
+      www.uta.fi#menuItem-3(2)
+https://www.uta.fi#menuItem-3
+https://www.uta.fi#menuItem-3
+      www10.uta.fi(3)
+https://www10.uta.fi/opas/teaching/index.htm?uiLang=fi
+https://www10.uta.fi/otp/
+https://www10.uta.fi/nettikatti/login.htm
+      tenttis.uta.fi(4)
+https://tenttis.uta.fi/
+https://tenttis.uta.fi/
+https://tenttis.uta.fi/login/index.php?lang=en_utf8
+https://tenttis.uta.fi/
+      login.staff.uta.fi:443(1)
+https://login.staff.uta.fi:443/adfs/ls/?client-request-id=967bdc3e-fddf-4562-a51b-b4d5a35a1b33&username=&wa=wsignin1.0&wtrealm=urn%253afederation%253aMicrosoftOnline&wctx=estsredirect%253d2%2526estsrequest%253drQIIAeNisFLPKCkpKLbS188vLcnJz8_Wy09Ly0xONTYz1UvOz9XLL0rPTAGxopiBCoqEuATs7lRPu_83yXWp9Jari6OkjWcx8hSXJKal6ZWWJOqlZV5gZNzExO7r5BkfHOxzgunyZ_5bTIL-RemeKeHFbqkpqUWJJZn5ebuYVUwsDM1TDcwtdVMNTU11TYxNk3WTzCzSdM1TzCzTEpMNjE1SLS6wCLxi4TFgtuLgYBNglGBQYPjBwriIFeiKmy5_M9985PSeVBBiOFFPkeEUq35OuFtmsXmZRUGlibZrvl9ygYufq5-rmUVyWVFhUmR6RJ5BlLuLp3ZBfqSJrYWV4QQ2oQlsTLs4ncEBoGqcqGqUBkRYgwEkXg5WYJxWlJqYk6tqnILsaQA1#
+      learning2.uta.fi(30)
+https://learning2.uta.fi/
+https://learning2.uta.fi/
+https://learning2.uta.fi/
+https://learning2.uta.fi/
+https://learning2.uta.fi/#maincontent
+https://learning2.uta.fi
+https://learning2.uta.fi/#
+https://learning2.uta.fi/?lang=de
+https://learning2.uta.fi/?lang=et
+https://learning2.uta.fi/?lang=en
+https://learning2.uta.fi/?lang=es
+https://learning2.uta.fi/?lang=fr
+https://learning2.uta.fi/?lang=it
+https://learning2.uta.fi/?lang=hu
+https://learning2.uta.fi/?lang=pl
+https://learning2.uta.fi/?lang=fi
+https://learning2.uta.fi/?lang=sv
+https://learning2.uta.fi/?lang=ru
+https://learning2.uta.fi/?lang=ja
+https://learning2.uta.fi/?lang=zh_cn
+https://learning2.uta.fi/login/index.php
+https://learning2.uta.fi
+https://learning2.uta.fi/
+https://learning2.uta.fi/#skipsitenews
+https://learning2.uta.fi/#sb-1
+https://learning2.uta.fi/mod/forum/view.php?id=1
+https://learning2.uta.fi/#sb-2
+https://learning2.uta.fi/
+https://learning2.uta.fi/course/index.php
+https://learning2.uta.fi/#sb-6
+      tietovirta.wordpress.com(1)
+https://tietovirta.wordpress.com/2017/04/08/18-miljardin-euron-tuloksellisuusdialogi/
+      www.uta.fi(36)
+https://www.uta.fi
+https://www.uta.fi/en
+https://www.uta.fi/
+https://www.uta.fi/yhteistyo-ja-palvelut/ravintolat-ja-ruokalistat
+https://www.uta.fi/yhteistyo-ja-palvelut#palveluhakemisto
+https://www.uta.fi/
+https://www.uta.fi/
+https://www.uta.fi/tutkimus
+https://www.uta.fi/opiskelijaksi
+https://www.uta.fi/opiskelu
+https://www.uta.fi/ajankohtaista
+https://www.uta.fi/yliopisto
+https://www.uta.fi/taxonomy/term/28
+https://www.uta.fi/
+https://www.uta.fi/
+https://www.uta.fi/
+https://www.uta.fi/en#main-content
+https://www.uta.fi/
+https://www.uta.fi/en#menuItem-1
+https://www.uta.fi/en#menuItem-100
+https://www.uta.fi/en#menuItem-101
+https://www.uta.fi/en#menuItem-102
+https://www.uta.fi/en#menuItem-2
+https://www.uta.fi/en#menuItem-3
+https://www.uta.fi/en#menuItem-300
+https://www.uta.fi/#main-content
+https://www.uta.fi/
+https://www.uta.fi/
+https://www.uta.fi/
+https://www.uta.fi/#menuItem-1
+https://www.uta.fi/#menuItem-100
+https://www.uta.fi/#menuItem-101
+https://www.uta.fi/#menuItem-102
+https://www.uta.fi/#menuItem-2
+https://www.uta.fi/#menuItem-3
+https://www.uta.fi/#menuItem-300
+      outlook.com(2)
+https://outlook.com/student.uta.fi
+https://outlook.com/staff.uta.fi
+      www.tieteenraivaajat.fi(1)
+https://www.tieteenraivaajat.fi/briefly-in-english/
+      intra.uta.fi(4)
+https://intra.uta.fi/
+https://intra.uta.fi/
+https://intra.uta.fi/
+https://intra.uta.fi/
+      login.student.uta.fi:443(1)
+https://login.student.uta.fi:443/adfs/ls/?client-request-id=05f325d4-3e98-4c4e-918c-67ea3040bcfb&username=&wa=wsignin1.0&wtrealm=urn%253afederation%253aMicrosoftOnline&wctx=estsredirect%253d2%2526estsrequest%253drQIIAeNisFLPKCkpKLbS188vLcnJz8_Wy09Ly0xONTYz1UvOz9XLL0rPTAGxopiBCoqEuASuqH5mnWHn5zOxJ_2VgcOe37MY-YpLSlNS80r0SksS9dIyLzAybmJi93XyjA8O9jnBdPkz_y0mQf-idM-U8GK31JTUosSSzPy8XcwqxsamaZaJKZa6hqZmybomJolmuklmFha6pmZmBmYpFuYWSYamF1gEXrHwGDBbcXCwCTBKMCgw_GBhXMQKdMcPPuPUf5tYfbdt1T2ne0-F4RSrfqm7cYF5cll6SlJpYEaVqb92cVRhgFOmU4axcZRZhJG2m3t6YVSWa4RJjqOtgZXhBDahCWxMuzhdwUGgapyoapQGRFgDAiReDlZgnFaUmpiTq2qcguptAA2#
+      www.uta.fi#menuItem-100(2)
+https://www.uta.fi#menuItem-100
+https://www.uta.fi#menuItem-100
+      iasrblog.wordpress.com(1)
+https://iasrblog.wordpress.com/2017/02/22/neoliberalism-and-populism-a-short-survey-by-mahmut-mutman/
+      fransmayra.fi(1)
+https://fransmayra.fi/2017/04/08/tampere3-suuri-lupaus-turhia-saantoja/
+      www.uta.fi#main-content(2)
+https://www.uta.fi#main-content
+https://www.uta.fi#main-content
+      www.uta.fi#menuItem-102(2)
+https://www.uta.fi#menuItem-102
+https://www.uta.fi#menuItem-102
+      www.uta.fi#menuItem-300(2)
+https://www.uta.fi#menuItem-300
+https://www.uta.fi#menuItem-300
+      www.uta.fi#menuItem-101(2)
+https://www.uta.fi#menuItem-101
+https://www.uta.fi#menuItem-101

@@ -1,59 +1,103 @@
-2017-04-17 15:34:22.452:  HTTP error fetching URL
-2017-04-17 15:34:22.969:  HTTP error fetching URL
-2017-04-17 15:34:24.152:  HTTP error fetching URL
-2017-04-17 15:34:24.548:  HTTP error fetching URL
-2017-04-17 15:34:36.615:  puheviestintä.fi
-2017-04-17 15:34:41.617:  HTTP error fetching URL
-2017-04-17 15:34:43.124:  HTTP error fetching URL
-2017-04-17 15:34:44.066:  HTTP error fetching URL
-2017-04-17 15:34:45.592:  HTTP error fetching URL
-2017-04-17 15:34:55.898:  puheviestintä.fi
-2017-04-17 15:35:00.883:  HTTP error fetching URL
-2017-04-17 15:35:02.474:  HTTP error fetching URL
-2017-04-17 15:35:11.75:  puheviestintä.fi
-2017-04-17 15:36:42.996:  www.uta.fi added 
-2017-04-17 15:36:44.191:  www.uta.fi#main-content added 
-2017-04-17 15:36:45.993:  outlook.com added 
-2017-04-17 15:36:46.134:  www10.uta.fi added 
-2017-04-17 15:36:46.347:  intra.uta.fi added 
-2017-04-17 15:36:46.506:  learning2.uta.fi added 
-2017-04-17 15:36:46.691:  tenttis.uta.fi added 
-2017-04-17 15:36:46.829:  tampub.uta.fi added 
-2017-04-17 15:36:46.905:  www.uta.fi#menuItem-1 added 
-2017-04-17 15:36:46.99:  www.uta.fi#menuItem-100 added 
-2017-04-17 15:36:47.074:  www.uta.fi#menuItem-101 added 
-2017-04-17 15:36:47.15:  www.uta.fi#menuItem-102 added 
-2017-04-17 15:36:47.245:  www.uta.fi#menuItem-2 added 
-2017-04-17 15:36:47.323:  www.uta.fi#menuItem-3 added 
-2017-04-17 15:36:47.412:  www.uta.fi#menuItem-300 added 
-2017-04-17 15:36:49.785:  www.tieteenraivaajat.fi added 
-2017-04-17 15:36:50.153:  blogs.uta.fi added 
-2017-04-17 15:36:51.127:  politiikasta.fi added 
-2017-04-17 15:36:51.228:  alusta.uta.fi added 
-2017-04-17 15:36:51.23:  puheviestintä.fi
-2017-04-17 15:36:51.23:  puheviestintä.fi added 
-2017-04-17 15:36:51.535:  tietovirta.wordpress.com added 
-2017-04-17 15:36:51.879:  fransmayra.fi added 
-2017-04-17 15:36:51.946:  login.student.uta.fi:443 added 
-2017-04-17 15:36:54.386:  moodle.org added 
-2017-04-17 15:36:54.386:  protocol = http host = null
-2017-04-17 15:36:54.387:   added 
-2017-04-17 15:36:56.606:  elomake3.uta.fi added 
-2017-04-17 15:36:57.193:  www.mozilla-europe.org added 
-2017-04-17 15:36:57.273:  HTTP error fetching URL
-2017-04-17 15:36:57.274:  www.mozilla.fi added 
-2017-04-17 15:36:57.376:  mailto:it-helpdesk@uta.fi added 
-2017-04-17 15:36:57.467:  mailto:tenttis@uta.fi added 
-2017-04-17 15:36:57.5:  s1.doria.fi added 
-2017-04-17 15:36:57.571:  tampub.uta.fi:80 added 
-2017-04-17 15:36:58.598:  solecris.uta.fi added 
-2017-04-17 15:36:58.67:  tieteenraivaajat.fi added 
-2017-04-17 15:36:59.519:  twitter.com added 
-2017-04-17 15:37:01.218:  www.facebook.com added 
-2017-04-17 15:37:02.07:  www.linkedin.com added 
-2017-04-17 15:37:02.973:  www.youtube.com added 
-2017-04-17 15:37:03.475:  www.instagram.com added 
-2017-04-17 15:37:03.772:  mail.google.com added 
-2017-04-17 15:37:05.185:  www.myspace.com added 
-2017-04-17 15:37:05.198:  delicious.com
-2017-04-17 15:37:05.198:  delicious.com added 
+2017-04-17 17:55:40.962:  www.uta.fi added 
+2017-04-17 17:55:41.059:  www.uta.fi#main-content added 
+2017-04-17 17:55:41.157:  www.uta.fi added 
+2017-04-17 17:55:41.249:  www.uta.fi added 
+2017-04-17 17:55:46.812:  outlook.com added 
+2017-04-17 17:55:46.931:  www10.uta.fi added 
+2017-04-17 17:55:47.018:  HTTP error fetching URL
+2017-04-17 17:55:47.019:  www10.uta.fi added 
+2017-04-17 17:55:48.684:  outlook.com added 
+2017-04-17 17:55:48.896:  intra.uta.fi added 
+2017-04-17 17:55:49.071:  learning2.uta.fi added 
+2017-04-17 17:55:49.091:  www10.uta.fi added 
+2017-04-17 17:55:49.169:  www.uta.fi added 
+2017-04-17 17:55:49.35:  tenttis.uta.fi added 
+2017-04-17 17:55:49.428:  www.uta.fi added 
+2017-04-17 17:55:49.507:  www.uta.fi added 
+2017-04-17 17:55:49.583:  www.uta.fi added 
+2017-04-17 17:55:49.668:  www.uta.fi#menuItem-1 added 
+2017-04-17 17:55:49.751:  www.uta.fi added 
+2017-04-17 17:55:49.837:  www.uta.fi#menuItem-100 added 
+2017-04-17 17:55:49.927:  www.uta.fi#menuItem-101 added 
+2017-04-17 17:55:50.005:  www.uta.fi#menuItem-102 added 
+2017-04-17 17:55:50.072:  www.uta.fi added 
+2017-04-17 17:55:50.146:  www.uta.fi added 
+2017-04-17 17:55:50.244:  www.uta.fi added 
+2017-04-17 17:55:50.326:  www.uta.fi#menuItem-2 added 
+2017-04-17 17:55:50.407:  www.uta.fi#menuItem-3 added 
+2017-04-17 17:55:50.477:  www.uta.fi added 
+2017-04-17 17:55:50.556:  www.uta.fi#menuItem-300 added 
+2017-04-17 17:55:50.641:  www.uta.fi added 
+2017-04-17 17:55:50.96:  tietovirta.wordpress.com added 
+2017-04-17 17:55:51.26:  fransmayra.fi added 
+2017-04-17 17:55:51.339:  www.uta.fi#main-content added 
+2017-04-17 17:55:51.426:  www.uta.fi added 
+2017-04-17 17:55:51.577:  intra.uta.fi added 
+2017-04-17 17:55:51.657:  learning2.uta.fi added 
+2017-04-17 17:55:51.818:  tenttis.uta.fi added 
+2017-04-17 17:55:51.901:  www.uta.fi added 
+2017-04-17 17:55:51.994:  www.uta.fi added 
+2017-04-17 17:55:52.069:  www.uta.fi#menuItem-1 added 
+2017-04-17 17:55:52.155:  www.uta.fi#menuItem-100 added 
+2017-04-17 17:55:52.239:  www.uta.fi#menuItem-101 added 
+2017-04-17 17:55:52.317:  www.uta.fi#menuItem-102 added 
+2017-04-17 17:55:52.398:  www.uta.fi#menuItem-2 added 
+2017-04-17 17:55:52.477:  www.uta.fi#menuItem-3 added 
+2017-04-17 17:55:52.569:  www.uta.fi#menuItem-300 added 
+2017-04-17 17:55:52.655:  www.uta.fi added 
+2017-04-17 17:55:52.732:  www.uta.fi added 
+2017-04-17 17:55:52.882:  intra.uta.fi added 
+2017-04-17 17:55:52.964:  learning2.uta.fi added 
+2017-04-17 17:55:53.051:  tenttis.uta.fi added 
+2017-04-17 17:55:53.135:  www.uta.fi added 
+2017-04-17 17:55:53.22:  www.uta.fi added 
+2017-04-17 17:55:53.312:  www.uta.fi added 
+2017-04-17 17:55:53.397:  www.uta.fi added 
+2017-04-17 17:55:53.49:  www.uta.fi added 
+2017-04-17 17:55:53.578:  www.uta.fi added 
+2017-04-17 17:55:53.657:  www.uta.fi added 
+2017-04-17 17:55:54.502:  www.tieteenraivaajat.fi added 
+2017-04-17 17:55:54.717:  iasrblog.wordpress.com added 
+2017-04-17 17:55:54.806:  www.uta.fi added 
+2017-04-17 17:55:54.883:  www.uta.fi added 
+2017-04-17 17:55:55.039:  intra.uta.fi added 
+2017-04-17 17:55:55.126:  learning2.uta.fi added 
+2017-04-17 17:55:55.284:  tenttis.uta.fi added 
+2017-04-17 17:55:55.377:  www.uta.fi added 
+2017-04-17 17:55:55.457:  www.uta.fi added 
+2017-04-17 17:55:55.535:  www.uta.fi added 
+2017-04-17 17:55:55.608:  www.uta.fi added 
+2017-04-17 17:55:55.687:  www.uta.fi added 
+2017-04-17 17:55:55.769:  www.uta.fi added 
+2017-04-17 17:55:55.86:  www.uta.fi added 
+2017-04-17 17:55:55.934:  www.uta.fi added 
+2017-04-17 17:55:56.014:  www.uta.fi added 
+2017-04-17 17:55:56.076:  login.student.uta.fi:443 added 
+2017-04-17 17:55:56.14:  login.staff.uta.fi:443 added 
+2017-04-17 17:55:56.22:  learning2.uta.fi added 
+2017-04-17 17:55:56.303:  learning2.uta.fi added 
+2017-04-17 17:55:56.384:  learning2.uta.fi added 
+2017-04-17 17:55:56.46:  learning2.uta.fi added 
+2017-04-17 17:55:56.538:  learning2.uta.fi added 
+2017-04-17 17:55:56.615:  learning2.uta.fi added 
+2017-04-17 17:55:56.691:  learning2.uta.fi added 
+2017-04-17 17:55:56.766:  learning2.uta.fi added 
+2017-04-17 17:55:56.844:  learning2.uta.fi added 
+2017-04-17 17:55:56.923:  learning2.uta.fi added 
+2017-04-17 17:55:57.001:  learning2.uta.fi added 
+2017-04-17 17:55:57.078:  learning2.uta.fi added 
+2017-04-17 17:55:57.155:  learning2.uta.fi added 
+2017-04-17 17:55:57.234:  learning2.uta.fi added 
+2017-04-17 17:55:57.312:  learning2.uta.fi added 
+2017-04-17 17:55:57.395:  learning2.uta.fi added 
+2017-04-17 17:55:57.443:  learning2.uta.fi added 
+2017-04-17 17:55:57.522:  learning2.uta.fi added 
+2017-04-17 17:55:57.599:  learning2.uta.fi added 
+2017-04-17 17:55:57.676:  learning2.uta.fi added 
+2017-04-17 17:55:57.753:  learning2.uta.fi added 
+2017-04-17 17:55:57.815:  learning2.uta.fi added 
+2017-04-17 17:55:57.891:  learning2.uta.fi added 
+2017-04-17 17:55:57.968:  learning2.uta.fi added 
+2017-04-17 17:55:58.096:  learning2.uta.fi added 
+2017-04-17 17:55:58.173:  learning2.uta.fi added 
+2017-04-17 17:55:58.185:  Crawler ended with status code 0

@@ -6,6 +6,7 @@
 package src;
 
 import Queryfilter.Filter;
+import files.Result;
 import java.io.IOException;
 import java.util.ArrayList;
 import java.util.LinkedList;
@@ -17,7 +18,7 @@ import sortedlinks.SortedLinks;
 public class Crawler {
 
     public static final String DEFAULTSTARTING = "https://www.uta.fi";
-    public static final int DEFAULTMAXVISITS = 200;
+    public static final int DEFAULTMAXVISITS = 100;
     private SortedLinks visited;
     private SortedLinks matches;
     private int visitAmount;
@@ -41,17 +42,23 @@ public class Crawler {
         this.nextVisit = startingPoint;
         this.maxVisits = maxVisits;
         this.visitAmount = 0;
-
     }
 
     public void nextUrl() {
-        if (!this.unvisited.isEmpty() && this.maxVisits > this.visitAmount) {
-            boolean goodUrl = false;
-            while (!goodUrl) {
-                this.nextVisit = this.unvisited.remove();
-                if (this.validateWithoutPriority(this.nextVisit) != null) {
-                    goodUrl = true;
-                } 
+        if (this.maxVisits <= this.visitAmount) {
+            this.nextVisit = null;
+            return;
+        }
+        boolean goodUrl = false;
+        while (!goodUrl) {
+            if (this.unvisited.isEmpty()) {
+                this.nextVisit = null;
+                return;
+            }
+            this.nextVisit = this.unvisited.remove();
+            if (this.validateWithoutPriority(this.nextVisit) != null) {
+                goodUrl = true;
+                return;
             }
         }
 
@@ -68,10 +75,11 @@ public class Crawler {
                 }
                 this.visitAmount++;
             }
-            System.out.println(this.nextVisit);
             this.visited.addToList(new Link(this.nextVisit));
+            System.out.println(this.nextVisit);
             this.nextUrl();
         }
+        Result.writeResult(this.visited);
     }
 
     public SortedLinks getVisited() {

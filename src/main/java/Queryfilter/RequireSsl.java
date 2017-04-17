@@ -21,7 +21,7 @@ public class RequireSsl implements Filter {
 
     @Override
     public boolean checkIfAllowed(String url) {
-        return true;//return url.startsWith("https://");
+        return url.startsWith("https://");
         
     }
 

@@ -62,14 +62,8 @@ public class SortedLinks {
             this.linksInList++;
             return true;
         } else {
-            List<Link> linkList = this.listOfLinks.get(newLink.getDns());
-            for (int i = 0; i < linkList.size(); i++) {
-                if (linkList.get(i).getDns().equals(newLink.getDns())) {
-                    return false;
-                }
-            }
+            this.listOfLinks.get(newLink.getDns()).add(newLink);
             this.linksInList++;
-            linkList.add(newLink);
             return true;
         }
     }
@@ -77,22 +71,19 @@ public class SortedLinks {
     public boolean addToList(String link) {
         return (addToList(new Link(link)));
     }
-    public boolean uniqueDns(String link)
-    {
+
+    public boolean uniqueDns(String link) {
         Link l = new Link(link);
         List<Link> items = this.listOfLinks.get(l.getDns());
         return items == null;
     }
-    public boolean uniqueRoute(String link)
-    {
+
+    public boolean uniqueRoute(String link) {
         Link l = new Link(link);
-        if(this.listOfLinks.containsKey(l.getDns()))
-        {
+        if (this.listOfLinks.containsKey(l.getDns())) {
             List<Link> routes = this.listOfLinks.get(l.getDns());
-            for(int i = 0; i < routes.size(); i++)
-            {
-                if(routes.get(i).getDns().equals(l.getDns()))
-                {
+            for (int i = 0; i < routes.size(); i++) {
+                if (routes.get(i).getWhitoutHTTP().equals(l.getWhitoutHTTP())) {
                     return false;
                 }
             }
@@ -100,4 +91,22 @@ public class SortedLinks {
         return true;
     }
 
+    public Map<String, List<Link>> get() {
+        return this.listOfLinks;
+    }
+
+    public boolean uniqueFirstRoute(String link) {
+        Link l = new Link(link);
+        if (this.listOfLinks.containsKey(l.getDns())) {
+            List<Link> routes = this.listOfLinks.get(l.getDns());
+            for (int i = 0; i < routes.size(); i++) {
+                if (routes.get(i).getRoutes()[0] != null && l.getRoutes()[0] != null) {
+                    if (routes.get(i).getRoutes()[0].equals(l.getRoutes()[0])) {
+                        return false;
+                    }
+                }
+            }
+        }
+        return true;
+    }
 }
