@@ -52,9 +52,6 @@ public class SortedLinks {
     }
 
     public boolean addToList(Link newLink) {
-        if (!Validation.ValidateLink(newLink.getWithHTTP())) {
-            return false;
-        }
         if (!this.listOfLinks.containsKey(newLink.getDns())) {
             this.uniqueDns++;
             ArrayList<Link> list = new ArrayList<>();
@@ -77,6 +74,27 @@ public class SortedLinks {
 
     public boolean addToList(String link) {
         return (addToList(new Link(link)));
+    }
+    public boolean uniqueDns(String link)
+    {
+        Link l = new Link(link);
+        return !this.listOfLinks.containsKey(l.getDns());
+    }
+    public boolean uniqueRoute(String link)
+    {
+        Link l = new Link(link);
+        if(this.listOfLinks.containsKey(l.getDns()))
+        {
+            List<Link> routes = this.listOfLinks.get(l.getDns());
+            for(int i = 0; i < routes.size(); i++)
+            {
+                if(routes.get(i).getDns().equals(l.getDns()))
+                {
+                    return false;
+                }
+            }
+        }
+        return true;
     }
 
 }
