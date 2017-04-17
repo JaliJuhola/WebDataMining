@@ -53,7 +53,6 @@ public class SortedLinks {
     }
 
     public boolean addToList(Link newLink) {
-        Log.writeLog(newLink.getDns() + " added ");
         if (!this.listOfLinks.containsKey(newLink.getDns())) {
             this.uniqueDns++;
             ArrayList<Link> list = new ArrayList<>();

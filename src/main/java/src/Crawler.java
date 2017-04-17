@@ -19,9 +19,10 @@ import sortedlinks.Link;
 import sortedlinks.SortedLinks;
 
 public class Crawler {
-    
-    public static final String DEFAULTSTARTING = "http://kiekko.tk";
-    public static final int DEFAULTMAXVISITS = 100;
+
+    public static final String DEFAULTSTARTING = "http://www.bbc.co.uk/learningenglish";
+    public static final int DEFAULTMAXVISITS = 50000;
+    public static final int DEFAULTMATCHES = 600;
     private SortedLinks visited;
     private SortedLinks matches = new SortedLinks();
     private int visitAmount;
@@ -30,16 +31,19 @@ public class Crawler {
     private String nextVisit;
     private ArrayList<Filter> filters = new ArrayList<>();
     private ArrayList<SitebodyFilter> sitebodyFilters = new ArrayList<>();
-    
+    private int matchAmount = 0;
+    private int maxMatchAmount = Crawler.DEFAULTMATCHES;
+    private int urlsAnalyzed = 1;
+
     public Crawler() {
         this.visited = new SortedLinks();
         this.unvisited = new LinkedList<>();
         this.maxVisits = Crawler.DEFAULTMAXVISITS;
         this.nextVisit = Crawler.DEFAULTSTARTING;
         this.visitAmount = 0;
-        
+
     }
-    
+
     public Crawler(String startingPoint, int maxVisits) {
         this.unvisited = new LinkedList<>();
         this.visited = new SortedLinks();
@@ -47,7 +51,7 @@ public class Crawler {
         this.maxVisits = maxVisits;
         this.visitAmount = 0;
     }
-    
+
     public void nextUrl() {
         if (this.maxVisits <= this.visitAmount) {
             this.nextVisit = null;
@@ -55,6 +59,7 @@ public class Crawler {
         }
         boolean goodUrl = false;
         while (!goodUrl) {
+            this.urlsAnalyzed++;
             if (this.unvisited.isEmpty()) {
                 this.nextVisit = null;
                 return;
@@ -67,12 +72,12 @@ public class Crawler {
                 }
             }
         }
-        
+
     }
 
     /* Main method which runs crawling */
     public void crawl() {
-        while (this.nextVisit != null) {
+        while (this.nextVisit != null || this.matchAmount <= this.maxMatchAmount) {
             SiteVisitor visit = new SiteVisitor();
             if (visit.visit(new Link(this.nextVisit))) {
                 List<String> links = visit.getLinks();
@@ -80,34 +85,34 @@ public class Crawler {
                     System.out.println(this.nextVisit);
                     if (this.matches.uniqueDns(nextVisit)) {
                         this.matches.addToList(new Link(this.nextVisit));
+                        maxMatchAmount++;
                     } else {
                         Log.writeLog("error adding matches match url already exists!");
                     }
                 }
                 while (!links.isEmpty()) {
-                        
-                        this.unvisited.add(links.remove(0));
+                    this.unvisited.add(links.remove(0));
                 }
                 this.visitAmount++;
             }
             this.visited.addToList(new Link(this.nextVisit));
             this.nextUrl();
         }
-        Result.writeResult(this.visited);
+        Result.writeResult(this.matches, this.visitAmount, this.urlsAnalyzed);
     }
-    
+
     public SortedLinks getVisited() {
         return this.visited;
     }
-    
+
     public void addFilter(Filter filter) {
         this.filters.add(filter);
     }
-    
+
     public void addSitebodyFilter(SitebodyFilter sbf) {
         this.sitebodyFilters.add(sbf);
     }
-    
+
     public boolean checkSiteFilters(Document document) {
         for (int i = 0; i < this.sitebodyFilters.size(); i++) {
             if (!this.sitebodyFilters.get(i).siteMatches(document)) {
@@ -116,7 +121,7 @@ public class Crawler {
         }
         return true;
     }
-    
+
     public Link validateWithoutPriority(String url) {
         for (int i = 0; i < this.filters.size(); i++) {
             if (this.filters.get(i).needsLinkList()) {

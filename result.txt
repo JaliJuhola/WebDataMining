@@ -1,146 +1,65 @@
-Result Mon Apr 17 19:27:11 EEST 2017
-      www.mediatraffic.fi(1)
-http://www.mediatraffic.fi
-      (1)
-http://
-      klikki.fi(1)
-https://klikki.fi
-      kiekko.tk(1)
-http://kiekko.tk
-      my.nebula.fi(3)
-https://my.nebula.fi
-https://my.nebula.fi/?&_ga=1.256725643.1430869413.1481199333#/registration/new?_k=kbij9y
-https://my.nebula.fi/?&_ga=1.227300253.1430869413.1481199333#/orders/free-tier/contact-details?_k=yh76lc
-      control.nebulacloud.fi(1)
-https://control.nebulacloud.fi/auth/login/?next=/
-      kiekko.info(1)
-https://kiekko.info
-      www-ssl.nebula.fi(1)
-https://www-ssl.nebula.fi/webmail.form.php
-      www.twitch.tv(2)
-http://www.twitch.tv/kiekkoofficial
-https://www.twitch.tv/kiekkoofficial#
-      stats.nebula.fi(1)
-https://stats.nebula.fi/new/?_ga=1.69435088.1339018914.1446730031
-      store.nebula.fi(1)
-https://store.nebula.fi/?redirect=OFFICE_365&SalesBranchID=273
-      kiekkoliiga.net(1)
-http://kiekkoliiga.net
-      extra.labyrintti.com(1)
-https://extra.labyrintti.com/lmgw-stats/
-      www.alexa.com(2)
-http://www.alexa.com
-http://www.alexa.com/site/ds/top_sites?ts_mode=lang&lang=fi
-      ssl.nebula.fi(1)
-https://ssl.nebula.fi/password/index.cgi?error=
-      kiekko.arkku.net(2)
-http://kiekko.arkku.net
-http://kiekko.arkku.net/fi/register.php
-      en.wikipedia.org(1)
-http://en.wikipedia.org/wiki/Elo_rating
-      joska.fi(1)
-http://joska.fi
-      tilastot.tk(1)
-http://tilastot.tk
-      www.pelit.fi(1)
-http://www.pelit.fi/index.php?id=68718
-      digitalisaatio.nebula.fi(1)
-http://digitalisaatio.nebula.fi/
-      www.linkmobility.com(1)
-https://www.linkmobility.com
-      www.quantcast.com(1)
-https://www.quantcast.com/p-16uNVwiyGoWyg
-      www.nebula.fi(1)
-http://www.nebula.fi
-      www.facebook.com(1)
-https://www.facebook.com/NebulaOy/
+Result Mon Apr 17 19:54:22 EEST 2017
+Urls analyzed 2862
+Sites visited200
+      www.bbc.com(1)
+http://www.bbc.com/news/
+      photos.google.com(1)
+https://photos.google.com/?pageId=none
+      docs.google.com(1)
+https://docs.google.com/document/?usp=docs_alc
+      dev.twitter.com(1)
+https://dev.twitter.com/docs/embedded-tweets
+      instagram.com(1)
+https://instagram.com/bbclearningenglish/
+      mail.google.com(1)
+https://mail.google.com/mail/
+      support.twitter.com(1)
+https://support.twitter.com/articles/20170514
+      mailto:avezvotreparlez@bbc.co.uk(1)
+http://mailto:avezvotreparlez@bbc.co.uk
+      drive.google.com(1)
+https://drive.google.com/
+      www.google.com(1)
+https://www.google.com/calendar
+      search.bbc.co.uk(1)
+http://search.bbc.co.uk/search
+      www.bbclearningenglish.com(1)
+http://www.bbclearningenglish.com
+      advertising.bbcworldwide.com(1)
+http://advertising.bbcworldwide.com/
+      www.starwars.com(1)
+http://www.starwars.com
       twitter.com(1)
-https://twitter.com/NebulaOy
-      tiimipelit.net(1)
-http://tiimipelit.net
-      www.linkedin.com(1)
-https://www.linkedin.com/company/nebula-oy
-      cloud9.nebula.fi(1)
-http://cloud9.nebula.fi/
-      paitsio.kiekkoliiga.net(1)
-http://paitsio.kiekkoliiga.net
-      mailto:myynti@nebula.fi(1)
-http://mailto:myynti@nebula.fi
-      kiekko.tv(27)
-http://kiekko.tv/
-http://kiekko.tv/html5/?v=23
-http://kiekko.tv/login.cws
-http://kiekko.tv/register.cws
-http://kiekko.tv/vip/
-http://kiekko.tv/teams/
-http://kiekko.tv/players.cws
-http://kiekko.tv/forum/
-http://kiekko.tv/ohje.cws
-http://kiekko.tv/about.cws
-http://kiekko.tv/liiga.cws
-http://kiekko.tv/logos.cws
-http://kiekko.tv/forgot.cws
-http://kiekko.tv/fb.cws
-http://kiekko.tv/ukk.cws
-http://kiekko.tv/arenas.cws
-http://kiekko.tv/jerseys.cws
-http://kiekko.tv/musics.cws
-http://kiekko.tv/videos.cws
-http://kiekko.tv/search.cws
-http://kiekko.tv/lft.cws
-http://kiekko.tv/jerseys2.cws
-http://kiekko.tv/player_images.cws
-http://kiekko.tv/rang.cws
-http://kiekko.tv/archive/
-http://kiekko.tv/msg/compose.cws?to=jouko
-http://kiekko.tv/rekisteriseloste.cws
-      m.labyrintti.com(1)
-https://m.labyrintti.com
-      www.fiuudistus.fi(1)
-http://www.fiuudistus.fi/
-      www.labyrintti.com(37)
-http://www.labyrintti.com
-http://www.labyrintti.com/en/
-http://www.labyrintti.com/yritys
-http://www.labyrintti.com/palvelut
-http://www.labyrintti.com/toimialat
-http://www.labyrintti.com/referenssit
-http://www.labyrintti.com/yhteys
-http://www.labyrintti.com/tiedotteet
-http://www.labyrintti.com/DeloitteTechnologyFast
-http://www.labyrintti.com/case_yle
-http://www.labyrintti.com/case_weekendfestival
-http://www.labyrintti.com/case_parklive
-http://www.labyrintti.com/case_atria
-http://www.labyrintti.com/case_expert
-http://www.labyrintti.com/case_salpausselankisat
-http://www.labyrintti.com/case_meyer_turku
-http://www.labyrintti.com/case_storaenso
-http://www.labyrintti.com/case_sonisphere_festival
-http://www.labyrintti.com/case_scandic
-http://www.labyrintti.com/case_basware
-http://www.labyrintti.com/case_aller
-http://www.labyrintti.com/case_vr_track
-http://www.labyrintti.com/case_enfo
-http://www.labyrintti.com/case_savonlinnanoopperajuhlat
-http://www.labyrintti.com/case_rinta-jouppi
-http://www.labyrintti.com/case_arla_ingman
-http://www.labyrintti.com/case_flowfestival
-http://www.labyrintti.com/case_universal
-http://www.labyrintti.com/case_colgate
-http://www.labyrintti.com/case_netvisor
-http://www.labyrintti.com/case_affecto
-http://www.labyrintti.com/tekstiviestikyselyt
-http://www.labyrintti.com/tekstiviestihalytys
-http://www.labyrintti.com/sms-gateway
-http://www.labyrintti.com/mailtosms
-http://www.labyrintti.com/hopealuoti
-http://www.labyrintti.com/sivukartta
-      www.java.com(1)
-http://www.java.com
-      webchat.ircnet.net(1)
-http://webchat.ircnet.net/?nick=&channels=kiekko.tk&prompt=1&uio=d4
-      goo.gl(3)
-https://goo.gl/J56qMc
-https://goo.gl/a67GYU
-https://goo.gl/BiahY9
+https://twitter.com/about
+      tinyurl.com(1)
+http://tinyurl.com/h7shs64
+      plus.google.com(1)
+https://plus.google.com/100604706598117440679
+      shop.bbc.com(1)
+http://shop.bbc.com/
+      www.bbc.co.uk(1)
+http://www.bbc.co.uk/learningenglish
+      www.buzzfeed.com(1)
+https://www.buzzfeed.com
+      lnk.to(1)
+http://lnk.to/hulahulaYD
+      www.bbcworldwide.com(1)
+http://www.bbcworldwide.com/cookies.aspx
+      uino.indiedays.com(1)
+http://uino.indiedays.com
+      dynalog.catalogs.com(1)
+http://dynalog.catalogs.com/g2643/dynalog
+      wallet.google.com(1)
+https://wallet.google.com/
+      www.instagram.com(1)
+https://www.instagram.com/bbclearningenglish/
+      status.twitter.com(1)
+http://status.twitter.com
+      www.mixital.co.uk(1)
+https://www.mixital.co.uk/article/five-principles-of-animation
+      bit.ly(1)
+http://bit.ly/DHT17AppStore
+      myaccount.google.com(1)
+https://myaccount.google.com/?utm_source=OGB
+      www.pinterest.com(1)
+https://www.pinterest.com/britainsbest/holiday-preview/

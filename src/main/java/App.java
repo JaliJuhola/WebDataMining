@@ -19,7 +19,7 @@ public class App {
         crawler.addFilter(new RouteOnce());
         crawler.addFilter(new ValidUrl());
         crawler.addFilter(new FirstRouteOnce());
-        crawler.addSitebodyFilter(new Metalanguage("fi"));
+        crawler.addSitebodyFilter(new Metalanguage("en"));
         
         crawler.crawl();
         

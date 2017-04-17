@@ -88,7 +88,7 @@ public class Link {
     public boolean routeStartsWith(String routeStartsWith) {
         if (routeStartsWith.startsWith("/")) {
             {
-                routeStartsWith.replaceFirst("/", "");
+                routeStartsWith = routeStartsWith.replaceFirst("/", "");
             }
             String[] parts = routeStartsWith.split("/");
             for (int i = 0; i < parts.length; i++) {

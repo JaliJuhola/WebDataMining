@@ -26,13 +26,16 @@ public class Result {
         }
     }
 
-    public static void writeResult(SortedLinks sl) {
+    public static void writeResult(SortedLinks sl, int sitesVisited, int urlsAnalyzed) {
         Map<String, List<Link>> result = sl.get();
         java.util.Date utilDate = new java.util.Date();
         Result.resultClear();
         try (PrintWriter pw = new PrintWriter(new FileWriter(FILENAME, true))) {
 
             pw.write("Result " + utilDate + "\r\n");
+            pw.write("Urls analyzed " + urlsAnalyzed + "\r\n");
+            pw.write("Sites visited" + sitesVisited + "\r\n");
+            
             pw.close();
             for (Map.Entry<String, List<Link>> entry : result.entrySet()) {
                 System.out.println("foreach");

@@ -1,128 +1,16 @@
-2017-04-17 19:26:18.426:  kiekko.tk added 
-2017-04-17 19:26:18.528:  kiekko.tv added 
-2017-04-17 19:26:18.616:  kiekko.tv added 
-2017-04-17 19:26:18.711:  kiekko.tv added 
-2017-04-17 19:26:18.801:  kiekko.tv added 
-2017-04-17 19:26:18.901:  kiekko.tv added 
-2017-04-17 19:26:18.991:  kiekko.tv added 
-2017-04-17 19:26:19.081:  kiekko.tv added 
-2017-04-17 19:26:19.166:  kiekko.tv added 
-2017-04-17 19:26:19.298:  kiekko.tv added 
-2017-04-17 19:26:19.676:  kiekko.tv added 
-2017-04-17 19:26:19.807:  kiekko.tv added 
-2017-04-17 19:26:19.858:  www.labyrintti.com added 
-2017-04-17 19:26:19.92:  www.nebula.fi added 
-2017-04-17 19:26:19.92:  www.nebula.fi added 
-2017-04-17 19:26:20.044:  kiekko.tv added 
-2017-04-17 19:26:21.237:  www.twitch.tv added 
-2017-04-17 19:26:23.691:  tilastot.tk added 
-2017-04-17 19:26:23.692:  tilastot.tk added 
-2017-04-17 19:26:23.921:  kiekko.arkku.net added 
-2017-04-17 19:26:24.01:  klikki.fi added 
-2017-04-17 19:26:24.101:  kiekko.tv added 
-2017-04-17 19:26:24.203:  kiekko.tv added 
-2017-04-17 19:26:24.301:  kiekko.tv added 
-2017-04-17 19:26:24.403:  kiekko.tv added 
-2017-04-17 19:26:24.502:  kiekko.tv added 
-2017-04-17 19:26:24.638:  kiekko.tv added 
-2017-04-17 19:26:24.722:  kiekko.tv added 
-2017-04-17 19:26:25.054:  en.wikipedia.org added 
-2017-04-17 19:26:25.175:  kiekko.tv added 
-2017-04-17 19:26:25.32:  kiekko.tv added 
-2017-04-17 19:26:25.433:  kiekko.tv added 
-2017-04-17 19:26:25.687:  kiekko.tv added 
-2017-04-17 19:26:25.769:  kiekko.tv added 
-2017-04-17 19:26:25.859:  kiekko.tv added 
-2017-04-17 19:26:46.871:  Connection timed out: connect
-2017-04-17 19:26:46.872:  webchat.ircnet.net added 
-2017-04-17 19:26:47.039:  www.java.com added 
-2017-04-17 19:26:48.144:  www.alexa.com added 
-2017-04-17 19:26:48.322:  HTTP error fetching URL
-2017-04-17 19:26:48.322:  www.alexa.com added 
-2017-04-17 19:26:48.42:  kiekko.tv added 
-2017-04-17 19:26:48.783:  joska.fi added 
-2017-04-17 19:26:48.783:  joska.fi added 
-2017-04-17 19:26:50.357:  www.mediatraffic.fi added 
-2017-04-17 19:26:50.357:  www.mediatraffic.fi added 
-2017-04-17 19:26:51.357:  www.pelit.fi added 
-2017-04-17 19:26:51.935:  kiekkoliiga.net added 
-2017-04-17 19:26:51.935:  kiekkoliiga.net added 
-2017-04-17 19:26:51.95:  paitsio.kiekkoliiga.net
-2017-04-17 19:26:51.95:  paitsio.kiekkoliiga.net added 
-2017-04-17 19:26:52.043:  kiekko.tv added 
-2017-04-17 19:26:52.214:  extra.labyrintti.com added 
-2017-04-17 19:26:52.242:  www.labyrintti.com added 
-2017-04-17 19:26:52.267:  www.labyrintti.com added 
-2017-04-17 19:26:52.291:  www.labyrintti.com added 
-2017-04-17 19:26:52.316:  www.labyrintti.com added 
-2017-04-17 19:26:52.341:  www.labyrintti.com added 
-2017-04-17 19:26:52.366:  www.labyrintti.com added 
-2017-04-17 19:26:52.366:  protocol = http host = null
-2017-04-17 19:26:52.367:   added 
-2017-04-17 19:26:52.39:  www.labyrintti.com added 
-2017-04-17 19:26:52.416:  www.labyrintti.com added 
-2017-04-17 19:26:52.441:  www.labyrintti.com added 
-2017-04-17 19:26:52.468:  www.labyrintti.com added 
-2017-04-17 19:26:52.493:  www.labyrintti.com added 
-2017-04-17 19:26:52.519:  www.labyrintti.com added 
-2017-04-17 19:26:52.549:  www.labyrintti.com added 
-2017-04-17 19:26:52.575:  www.labyrintti.com added 
-2017-04-17 19:26:52.601:  www.labyrintti.com added 
-2017-04-17 19:26:52.626:  www.labyrintti.com added 
-2017-04-17 19:26:52.652:  www.labyrintti.com added 
-2017-04-17 19:26:52.676:  www.labyrintti.com added 
-2017-04-17 19:26:52.7:  www.labyrintti.com added 
-2017-04-17 19:26:52.725:  www.labyrintti.com added 
-2017-04-17 19:26:52.751:  www.labyrintti.com added 
-2017-04-17 19:26:52.776:  www.labyrintti.com added 
-2017-04-17 19:26:52.8:  www.labyrintti.com added 
-2017-04-17 19:26:52.825:  www.labyrintti.com added 
-2017-04-17 19:26:52.854:  www.labyrintti.com added 
-2017-04-17 19:26:52.879:  www.labyrintti.com added 
-2017-04-17 19:26:52.903:  www.labyrintti.com added 
-2017-04-17 19:26:52.928:  www.labyrintti.com added 
-2017-04-17 19:26:52.954:  www.labyrintti.com added 
-2017-04-17 19:26:52.979:  www.labyrintti.com added 
-2017-04-17 19:26:55.381:  www.linkmobility.com added 
-2017-04-17 19:26:55.381:  www.linkmobility.com added 
-2017-04-17 19:26:55.407:  www.labyrintti.com added 
-2017-04-17 19:26:55.433:  www.labyrintti.com added 
-2017-04-17 19:26:55.459:  www.labyrintti.com added 
-2017-04-17 19:26:55.483:  www.labyrintti.com added 
-2017-04-17 19:26:55.508:  www.labyrintti.com added 
-2017-04-17 19:26:55.538:  www.labyrintti.com added 
-2017-04-17 19:26:56.641:  m.labyrintti.com added 
-2017-04-17 19:26:56.704:  my.nebula.fi added 
-2017-04-17 19:26:56.802:  www-ssl.nebula.fi added 
-2017-04-17 19:26:56.802:  www-ssl.nebula.fi added 
-2017-04-17 19:26:56.895:  ssl.nebula.fi added 
-2017-04-17 19:26:56.895:  ssl.nebula.fi added 
-2017-04-17 19:26:56.977:  stats.nebula.fi added 
-2017-04-17 19:26:57.202:  goo.gl added 
-2017-04-17 19:26:57.415:  goo.gl added 
-2017-04-17 19:26:57.527:  goo.gl added 
-2017-04-17 19:26:57.527:  goo.gl added 
-2017-04-17 19:27:05.02:  www.facebook.com added 
-2017-04-17 19:27:05.02:  www.facebook.com added 
-2017-04-17 19:27:05.693:  twitter.com added 
-2017-04-17 19:27:05.693:  twitter.com added 
-2017-04-17 19:27:06.608:  HTTP error fetching URL
-2017-04-17 19:27:06.609:  www.linkedin.com added 
-2017-04-17 19:27:08.687:  mailto:myynti@nebula.fi added 
-2017-04-17 19:27:08.687:  mailto:myynti@nebula.fi added 
-2017-04-17 19:27:08.719:  my.nebula.fi added 
-2017-04-17 19:27:09.374:  store.nebula.fi added 
-2017-04-17 19:27:09.386:  my.nebula.fi added 
-2017-04-17 19:27:09.427:  digitalisaatio.nebula.fi added 
-2017-04-17 19:27:09.461:  www.fiuudistus.fi added 
-2017-04-17 19:27:09.504:  cloud9.nebula.fi added 
-2017-04-17 19:27:09.636:  control.nebulacloud.fi added 
-2017-04-17 19:27:09.831:  www.twitch.tv added 
-2017-04-17 19:27:10.404:  HTTP error fetching URL
-2017-04-17 19:27:10.404:  www.quantcast.com added 
-2017-04-17 19:27:10.474:  tiimipelit.net
-2017-04-17 19:27:10.475:  tiimipelit.net added 
-2017-04-17 19:27:11.27:  kiekko.info added 
-2017-04-17 19:27:11.271:  kiekko.info added 
-2017-04-17 19:27:11.377:  kiekko.arkku.net added 
-2017-04-17 19:27:11.394:  Crawler ended with status code 0
+2017-04-17 20:13:19.308:  HTTP error fetching URL
+2017-04-17 20:13:20.157:  Unhandled content type. Must be text/*, application/xml, or application/xhtml+xml
+2017-04-17 20:13:23.036:  http://feeds.bbci.co.uk/learningenglish/english/home/rss **Failure** Retrieved something other than HTML
+2017-04-17 20:13:36.34:  http://feeds.bbci.co.uk/news/rss.xml?edition=int **Failure** Retrieved something other than HTML
+2017-04-17 20:13:36.717:  HTTP error fetching URL
+2017-04-17 20:13:39.251:  HTTP error fetching URL
+2017-04-17 20:13:39.585:  protocol = http host = null
+2017-04-17 20:13:51.083:  Unhandled content type. Must be text/*, application/xml, or application/xhtml+xml
+2017-04-17 20:14:02.866:  HTTP error fetching URL
+2017-04-17 20:14:03.469:  HTTP error fetching URL
+2017-04-17 20:14:03.685:  HTTP error fetching URL
+2017-04-17 20:14:14.635:  HTTP error fetching URL
+2017-04-17 20:14:19.148:  HTTP error fetching URL
+2017-04-17 20:15:05.421:  b
+2017-04-17 20:15:20.076:  www.fac
+2017-04-17 20:15:23.837:  ww

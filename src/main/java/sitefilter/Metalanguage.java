@@ -17,7 +17,7 @@ public class Metalanguage implements SitebodyFilter {
     @Override
     public boolean siteMatches(Document document) {
         if (document.getElementsByTag("html") != null) {
-            String language = document.getElementsByTag("html").first().attr("lang");
+            String language = document.child(0).attr("lang");
             return language.contains(this.language.toUpperCase()) || language.contains(this.language.toLowerCase());
         }
         return false;
