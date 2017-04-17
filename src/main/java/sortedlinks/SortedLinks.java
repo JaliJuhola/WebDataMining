@@ -74,7 +74,8 @@ public class SortedLinks {
 
     public boolean uniqueDns(String link) {
         Link l = new Link(link);
-        List<Link> items = this.listOfLinks.get(l.getDns());
+        String[] dns = l.getDns().split("#");
+        List<Link> items = this.listOfLinks.get(dns[0]);
         return items == null;
     }
 
