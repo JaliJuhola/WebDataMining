@@ -11,6 +11,3 @@
 2017-04-17 20:14:03.685:  HTTP error fetching URL
 2017-04-17 20:14:14.635:  HTTP error fetching URL
 2017-04-17 20:14:19.148:  HTTP error fetching URL
-2017-04-17 20:15:05.421:  b
-2017-04-17 20:15:20.076:  www.fac
-2017-04-17 20:15:23.837:  ww
