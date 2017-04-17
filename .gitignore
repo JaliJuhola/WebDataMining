@@ -1,1 +1,2 @@
-/target/WebCrawlerProject-1.0-SNAPSHOT.jar
+*.class
+*.jar
